@@ -50,19 +50,18 @@ public class str0 {
 
         return countMap;
     }
-    private static Map<String, Integer> Double(String[] strings) {
-    Map<String,String> map = new HashMap<>();
-
-
-
-
-
-
-
-
-    return map;
-
-    }
+//    private static Map<String, Integer> Double(String[] strings) {
+//    Map<String,String> map = new HashMap<>();
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//    }
 
 
 }
